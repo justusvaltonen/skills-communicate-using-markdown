@@ -29,3 +29,7 @@ puts("Gimme sensible output, please\n");
   ```
 </div>
 -->
+
+### Checklist syntax
+- [ ] Not checked
+- [x] Done
